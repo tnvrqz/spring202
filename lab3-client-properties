@@ -1,8 +1,4 @@
-spring:
-  profiles:
-    active: "dev"
-  main:
-    banner-mode: "off"
-word-of-the-day: "tina"
-server.port: "8001"
-lucky-word: "tina"
+server:
+  port: "8001"
+lucky:
+  word: "tina"
