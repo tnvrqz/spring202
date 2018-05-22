@@ -1,5 +1,4 @@
-lucky:
-  word: "tina"
+lucky-word: "tina"
 server:
   port: "8001"
   
