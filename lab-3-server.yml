@@ -1,5 +1,5 @@
-lucky-word: tina
+lucky1-word: tina
 server:
   port: "8001"
-word-of-the-day: "tina"
+word1-of-the-day: "tina"
   
