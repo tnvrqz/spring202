@@ -3,5 +3,5 @@ spring:
     active: "dev"
   main:
     banner-mode: "off"
-word-of-the-day: tina
-server.port:8001
+word-of-the-day: "tina"
+server.port: "8001"
