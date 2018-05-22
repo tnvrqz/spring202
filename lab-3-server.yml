@@ -1,0 +1,5 @@
+lucky:
+  word: "tina"
+server:
+  port: "8002"
+  
